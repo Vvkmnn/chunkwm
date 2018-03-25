@@ -66,7 +66,7 @@ cp ../../../plugins/ffm.so ~/.chunkwm_plugins
 
 ### Setting
 
-`chunkwm` uses a shell script as its configuration file and look for it at `$HOME/.chunkwmrc` (and needs to be executable via `chmod +x ~/.chunkwmrc`.  
+`chunkwm` uses a shell script as its configuration file and look for it at `$HOME/.chunkwmrc` (and needs to be executable via `chmod +x ~/.chunkwmrc`. Mine are available via my [dotfiles](https://github.com/Vvkmnn/dotfiles/blob/master/.chunkwmrc).
 
 A different location can be specified with the `--config | -c` argument.
 
